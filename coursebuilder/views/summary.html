@@ -1,0 +1,41 @@
+<div class="summary" style="font-size: 16px; margin-bottom: 3em">
+
+    <h1 class="gcb-product-headers-large">
+      {{course_info.course.title}}
+    </h1>
+
+    <div style="float: right; margin-left: 1em; text-align: center">
+
+        <iframe width="560" height="315" src="{{course_info.course.main_video.url}}" frameborder="0" allowfullscreen style="display: block; margin-left: 1em; margin-bottom: 1em"></iframe>
+
+        {% if enroll %}
+
+        <a class="gcb-button gcb-button-large" href="register" role="button">
+           Enroll
+        </a>
+
+
+        
+
+
+
+        {% endif %}
+
+    </div>
+
+    <div>
+      {{course_info.course.instructor_details | safe}}
+    </div>
+
+</div>
+
+<div class="cols" style="
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
+  column-count: 3;
+  clear: both
+">
+
+    {{course_info.course.details | safe}}
+
+</div>
