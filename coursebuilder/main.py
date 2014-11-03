@@ -39,7 +39,6 @@ from modules.oeditor import oeditor
 from modules.review import review
 from modules.search import search
 from modules.upload import upload
-from modules.gcmprueba import gcmprueba
 
 # use this flag to control debug only features
 debug = not appengine_config.PRODUCTION_MODE
@@ -58,7 +57,6 @@ oeditor.register_module().enable()
 review.register_module().enable()
 search.register_module().enable()
 upload.register_module().enable()
-gcmprueba.register_module().enable()
 
 # register modules that are not enabled by default.
 oauth2.register_module()
