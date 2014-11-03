@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/joseespino/Dropbox/PFCS/adGCB/build/intermediates/pre-dexed/debug/android-support-v4-cb0e95bc7cf1a1b91e2782c582b5f41ac32e9e64.jar"
+        jar="/Users/joseespino/Dropbox/PFCS/adGCB/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507"/>
+    <item
+        dex="/Users/joseespino/Dropbox/PFCS/adGCB/build/intermediates/pre-dexed/debug/gcm-ea2fc4306121bbdc2e73c5610c6af935db783d6b.jar"
+        jar="/Users/joseespino/Dropbox/PFCS/adGCB/libs/gcm.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa"/>
+
+</pre-dex-items>

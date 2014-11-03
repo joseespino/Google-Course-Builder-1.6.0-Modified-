@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">adGCB</string>
+    <string name="configuration">Configuracion</string>
+    <string name="currentcourses">Cursos actualmente registrados:</string>
+    <string name="nocourses">Ningun curso registrado</string>
+    <string name="deletead">Borrar anuncio</string>
+    <string name="confirmation">¿Estas seguro?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="addcourse">Añadir curso</string>
+    <string name="listcourses">Lista de cursos</string>
+    <string name="deleteconfiguration">Borrar configuracion</string>
+    <string name="processing">Procesando</string>
+    <string name="wait">Espere unos segundos </string>
+    <string name="impossible">Imposible eliminar curso, intentelo de nuevo</string>
+    <string name="impossibleserver">Imposible conectar con el curso MOOC. Intentelo de nuevo. Error: </string>
+    <string name="courseadd">Curso ya registrado</string>
+    <string name="impossiblecourse">Imposible registrar el curso, intentelo de nuevo</string>
+    
+    
+    
+    <string name="unregistered">Unregistered</string>
+    <string name="registering">Registering</string>
+    <string name="registro">Register</string>
+    <string name="desregistro">Un-registrer</string>
+    <string name="action_settings">Opciones</string>
+    <string name="title">Titulo</string>
+    <string name="message">Cuerpo del mensaje</string>
+    <string name="namecourse">Nombre del curso</string>
+    <string name="date">Fecha</string>
+
+</resources>

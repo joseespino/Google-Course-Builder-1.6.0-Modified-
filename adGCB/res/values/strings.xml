@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">adGCB</string>
+    <string name="configuration">Configuration</string>
+    <string name="currentcourses">Courses currently registered:</string>
+    <string name="nocourses">No course registration</string>
+    <string name="deletead">Delete ad</string>
+    <string name="confirmation">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="addcourse">Add course</string>
+    <string name="listcourses">Courses list</string>
+    <string name="deleteconfiguration">Delete configuration</string>
+    <string name="processing">Processing</string>
+    <string name="wait">Please wait a few seconds </string>
+    <string name="impossible">Impossible to remove the course, try again</string>
+    <string name="impossibleserver">Impossible connect to server. Try again. Error: </string>
+    <string name="courseadd">The course is already added</string>
+    <string name="impossiblecourse">Impossible register on course, try again</string>
+    
+    
+    
+    <string name="unregistered">Unregistered</string>
+    <string name="registering">Registering</string>
+    <string name="registro">Register</string>
+    <string name="desregistro">Un-registrer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="namecourse">Name of course</string>
+    <string name="date">Date</string>
+
+</resources>
